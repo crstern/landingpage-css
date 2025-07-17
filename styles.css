@@ -269,6 +269,6 @@ header {
   }
 
   .images-section > img {
-    width: -webkit-fill-available;
+    width: 100%;
   }
 }
